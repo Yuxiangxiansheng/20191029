@@ -1,2 +1,4 @@
-1
-2
+function getobj() {
+    房科技好帅啊
+
+}
